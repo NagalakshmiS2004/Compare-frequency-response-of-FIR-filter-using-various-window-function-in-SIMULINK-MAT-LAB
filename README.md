@@ -1,0 +1,2 @@
+# Compare-frequency-response-of-FIR-filter-using-various-window-function-in-SIMULINK-MAT-LAB
+Digital signal processing often involves designing Finite Impulse Response (FIR) filters to meet specific frequency domain requirements. FIR filters are characterized by their impulse response, which is finite in duration, making them computationally efficient and offering desirable properties such as linear phase response.
